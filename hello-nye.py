@@ -1,3 +1,8 @@
+''' 
+This is a little ditty that says hello, 
+and wishes you Happy New Year on the appropriate day.
+'''
+
 import time
 
 today = time.strftime('%d/%m')
