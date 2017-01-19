@@ -1,5 +1,4 @@
 # Hello, World!
-Learning to explain our world to machines.
 
 Hello fellow biological creatures!
 
