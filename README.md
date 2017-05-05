@@ -7,4 +7,4 @@ This is a repository of bits that don't currently live elsewhere.
 
 ***
 
-I have my very own website at [vickylai.com](https://vickylai.com/). You can also find me on Twitter as [@vickylaixy](https://twitter.com/vickylaixy).
+I have my very own website at [vickylai.io](https://vickylai.io/). You can also find me on Twitter as [@vickylaiio](https://twitter.com/vickylaiio).
